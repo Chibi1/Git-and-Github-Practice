@@ -1,1 +1,1 @@
-# This is a repository for me to practice my git hub usage
+# This is a repository for me to practice my git and github usage
